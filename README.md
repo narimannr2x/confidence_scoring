@@ -18,5 +18,5 @@ If you use this code or data in your research, please cite our paper:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2503.18562}, 
-}}
+}
 ```
